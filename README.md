@@ -3,7 +3,7 @@
 
 I will be a developer who can make what I want.
 <br>
-<br>
+
 > I'm poor Develop.
 > 
 > I'm poor English.
@@ -40,3 +40,21 @@ I will be a developer who can make what I want.
   * 백준 기초 이후 프로그래머스 (Level 3까지 필요)
 
 ## 기술면접
+
+
+
+
+
+
+
+## 참고자료 (순서대로)
+<br>
+>> 키워드 공부(전체) : https://github.com/WeareSoft/tech-interview
+>> 키워드 공부(전체) : https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+<br>
+>> Tech Interview(전체) : https://gyoogle.dev/blog/
+<br>
+>> Coding-Interview University(전체) : https://github.com/jwasham/coding-interview-university <br>
+>> 면접 질문 (프론트) : https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/#%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%A7%88%EB%AC%B8
+<br>
+>> Javascript 알고리즘 및 자료 구조 : https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md
